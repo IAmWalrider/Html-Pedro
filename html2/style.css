@@ -1,0 +1,25 @@
+body{
+background-color: #19191a ;
+color: aliceblue;
+
+}
+.pedro ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #0c0c0c;
+  }
+  
+.pedro li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color on hover */
+.pedro  li a:hover {
+    background-color: #121213 ;
+    color: rgb(255, 255, 255);
+  }
